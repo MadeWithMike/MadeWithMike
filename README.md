@@ -3,6 +3,3 @@
 - 🌱 I’m all about HTML, CSS, and JavaScript.
 - 💞️ I’m looking to collaborate on just about anything.
 - 📫 How to reach me? mikeobilade@gmail.com!
-
-P.S., <br>
-I'm always job-hunting. Let me know if I'm your man : D
