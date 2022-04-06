@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MadeWithMike
-- 👀 I’m interested in coding awesome stuff.
+- 👀 I’m interested in learning awesome stuff.
 - 🌱 I’m all about HTML, CSS, and JavaScript.
 - 💞️ I’m looking to collaborate on just about anything.
 - 📫 How to reach me? mikeobilade@gmail.com!
